@@ -4,4 +4,9 @@ Python code web spider
 Capstone Page-rank
 PYTHON with URLLIB, SQLITE, BEAUTIFULSOUP
 
-![imgfirst](/images/img1.png)
+######Starting spider
+![imgfirst](/images/spidering.png)
+######Starting ranking algorithm 
+![imgfirst](/images/ranking.png)
+######Aftermath of ranking in database
+![imgfirst](/images/rankingdone.png)
