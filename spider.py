@@ -15,7 +15,7 @@ class spider:
     ctx.verify_mode = ssl.CERT_NONE
 
     # set up database
-    con = sqlite3.connect('spider2.sqlite')
+    con = sqlite3.connect('spider3.sqlite')
     cur = con.cursor()
 
     cur.executescript('''

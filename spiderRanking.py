@@ -2,7 +2,7 @@ import sqlite3
 
 
 class spiderRanking:
-    con = sqlite3.connect('spider2.sqlite')
+    con = sqlite3.connect('spider3.sqlite')
     cur = con.cursor()
 
     # part 1 populate form_id list
